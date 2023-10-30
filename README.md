@@ -52,8 +52,6 @@ The IPL 2022 Analysis project provides valuable insights into the performances o
 
 Feel free to explore the code and visualizations to uncover exciting stories hidden within the data!
 
-Note: Replace https://link.to.your/ipl2022_image in the introduction section with the URL of an image that represents IPL 2022 or your project logo.
-
 
 
 
